@@ -15,6 +15,6 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-  p num1 // num2
+  p num1 / num2
 def square_root(num)
   p Math.sqrt(num1,num2)
